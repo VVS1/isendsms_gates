@@ -9,6 +9,8 @@
 	<country>Россия</country>
 	<prefixlist>
 		<prefix start="+7 920" end="+7 933"/>
+		<prefix start="+7 934100" end="+7 934100"/>
+		<prefix start="+7 936600" end="+7 936600"/>
 		<prefix start="+7 937" end="+7 938"/>
 
 		<prefix start="+7 812 90" end="+7 812 91" tag="1"/>
